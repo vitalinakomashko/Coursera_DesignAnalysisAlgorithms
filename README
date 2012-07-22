@@ -1,0 +1,7 @@
+This repository contains the hw solutions for the Design and Analysis of Algorithms Part
+1 class with Tim Roughgarden (Coursera). All homework assignments were written
+in R (poor choice of language). Currently it doesn't have hw4 because the code
+produced 'by 1 error' and was also very slow (it took about 10 days to get an
+answer).
+
+The other hw solutions are correct.
